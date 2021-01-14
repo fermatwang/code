@@ -12,7 +12,6 @@ public class P2 {
     }
 
     public Integer poll(){
-
     }
 
     public Integer peek(){
